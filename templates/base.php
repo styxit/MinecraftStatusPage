@@ -12,7 +12,7 @@
 <body>
 <div class="container">
     <div class="logo">
-        <img src="https://upload.wikimedia.org/wikipedia/en/3/32/Minecraft_logo.svg"/>
+        <img src="/assets/minecraft-logo.svg"/>
     </div>
     <div class="section">
         <?= $this->section('content') ?>
